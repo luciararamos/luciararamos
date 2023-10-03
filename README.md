@@ -1,5 +1,5 @@
 - 👋 Olá, sou Luciara Ramos
 - 👀 Sou QA Voluntária na Pipoca Ágil
-- 🌱 Estou atualmente aprendendo Robot Framework
+- 🌱 Automatizo com Robot Framework e aprendendo Cypress
 - 💞️ Estou em busca de trabalhar com QA e Automação
 - 📫 Meu linkedin é <a href="https://www.linkedin.com/in/luciararamos/">Luciara Ramos</a>
